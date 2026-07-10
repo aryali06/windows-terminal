@@ -27,5 +27,4 @@ I am writing down my own step-by-step process and configurations for this.
 9. Open the config file and change %USERPROFILE% to your username, save changes and close the editor.
 10. Right-click the .config folder, choose 'Show More Options' and click Properties. Tick on the 'hidden' checkmark in attributes, click Apply, then click OK. <img width="353" height="450" alt="image" src="https://github.com/user-attachments/assets/edc694ab-1baa-4f60-9fad-d4c8018e7e33" />
 11. Go back to your PowerShell 'profile.ps1' file and open it. Copy the code from the powershell branch in aryali06/windows-terminal or https://github.com/SleepyCatHey/Ultimate-Win11-Setup/blob/main/PowerShell/Microsoft.PowerShell_profile.ps1 and paste it in, replacing %USERPROFILE% with your username.
-12. Ctrl + S to save changes and close the editor. Open a new tab in your terminal, and you are done! <img width="798" height="377" alt="image" src="https://github.com/user-attachments/assets/8e975a7f-80e6-4749-9bf5-f2a0f3f23970" />
-
+12. Ctrl + S to save changes and close the editor. Open a new tab in your terminal, and you are done! <img width="1990" height="1076" alt="Screenshot 2026-07-05 225902" src="https://github.com/user-attachments/assets/acf0cd6e-cbae-4359-bd7c-cd7942ec5b44" />
